@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @LucasCarnetti
 - Interessado no conhecimento
 
-- 🤺 No momento, estudando Java e Phyton
+- 🤺 No momento, estudando **Javascript** e **Phyton**
 
 <!---
 LucasCarnetti/LucasCarnetti is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
